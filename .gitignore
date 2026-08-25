@@ -1,0 +1,18 @@
+# Codex and local agent state
+.codex/
+.agents/
+
+# Local planning records; not part of the distributable Skill
+docs/superpowers/
+
+# Editor settings and temporary files
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Understand Project"
+  short_description: "Evidence-based guided tours of unfamiliar projects"
+  default_prompt: "Use $understand-project to map the current project and explain it at my level, with evidence and a clear next reading path."
+
+policy:
+  allow_implicit_invocation: true
