@@ -60,6 +60,4 @@ python "$env:USERPROFILE\.codex\skills\.system\skill-creator\scripts\quick_valid
 
 `PYTHONUTF8` 用于避免 Windows 默认编码影响 UTF-8 文本的读取。
 
-## 许可证
 
-本仓库目前尚未包含许可证。发布可复用的开源版本前，请添加适合你的 `LICENSE` 文件。
